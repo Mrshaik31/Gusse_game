@@ -1,1 +1,1 @@
-Guess Game mini project using java.
+Guess Game  using java.
