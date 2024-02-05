@@ -1,7 +1,7 @@
 package miniproject;
 import java.util.Scanner;
 
- public class gusse_game{
+ public class guess_game{
     public static void main(String[]args){
 
         int myNumber=(int)(Math.random()*100);
