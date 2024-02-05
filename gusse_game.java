@@ -7,7 +7,7 @@ import java.util.Scanner;
         int myNumber=(int)(Math.random()*100);
         int userNumber=0;
        do{
-            System.out.println("Guess the number between 1 to 100:");
+            System.out.println("Guess the number between 10 to 100:");
            Scanner sc=new Scanner(System.in);
              userNumber=sc.nextInt();
 
