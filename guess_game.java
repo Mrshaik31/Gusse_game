@@ -4,7 +4,7 @@ import java.util.Scanner;
  public class guess_game{
     public static void main(String[]args){
 
-        int myNumber=(int)(Math.random()*200);
+        int myNumber=(int)(Math.random()*100);
         int userNumber=0;
        do{
             System.out.println("Guess the number between 10 to 100:");
